@@ -16,4 +16,4 @@ Final course project
            4. Write down Pseudo-Code
            5. Implement
 
-
+To see more about Markdown syntax check out [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
